@@ -1,6 +1,6 @@
-# AI Quiz Application 🧠
+# AI Quiz Application 
 
-A simple command-line quiz application built using Python. This project asks multiple-choice questions related to Generative AI, checks user answers, calculates the score, and displays the final percentage.
+A simple command line quiz application built using Python. This project asks multiple choice questions related to Generative AI, checks user answers, calculates the score, and displays the final percentage.
 
 ## Features
 
